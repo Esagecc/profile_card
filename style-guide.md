@@ -27,5 +27,5 @@ Dark gray: hsl(0, 0%, 59%)
 
 ### Font
 
-- Family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
+- Family: [Kumbh Sans](https://fonts.google.com/specim@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');en/Kumbh+Sans)
 - Weights: 400, 700
