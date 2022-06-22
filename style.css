@@ -121,3 +121,21 @@ hr {
     color: white; 
 }
 
+@media (min-width: 700px) {
+    .card {
+        margin: 180px auto;
+    }
+
+    .top-circle {
+        top: -330px;
+        height: 90%;
+        opacity: 100%;
+        left:80px;
+    }
+
+    .bottom-circle {
+        bottom: -540px;
+        right: -180px;
+
+    }
+}
